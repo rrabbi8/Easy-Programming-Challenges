@@ -1,2 +1,2 @@
 # Easy-Programming-Challenges
-Easy programming challenges from HakerRank
+Easy programming challenges from HakerRank in Java
