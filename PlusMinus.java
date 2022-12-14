@@ -5,12 +5,7 @@ Note: This challenge introduces precision problems. The test cases are scaled to
 though answers with absolute error of up to 10^-4 are acceptable. */
 
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 class Result {
 
